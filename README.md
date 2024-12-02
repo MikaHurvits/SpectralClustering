@@ -1,8 +1,12 @@
 # Spectral Clustering Module
 
-This project implements **Spectral Clustering**, a powerful clustering technique leveraging eigenvalues of graph Laplacians for dimensionality reduction before applying k-means clustering. The project provides a Python interface for performing spectral clustering along with supporting computations.
+This project implements **Spectral Clustering**, a powerful clustering technique leveraging eigenvalues of graph Laplacians for dimensionality reduction before applying k-means clustering. 
 
-![Spectral Clustering Illustration](A_visually_appealing_illustration_of_spectral_clus.png)
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/7ee3d13a-9a73-4492-99f9-52b3b43d15f1">
+
+
+The project provides a Python interface for performing spectral clustering along with supporting computations.
+
 
 ## Features
 
